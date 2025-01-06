@@ -1,0 +1,26 @@
+{
+	"name": "ketchum",
+	"version": "0.0.1",
+	"description": "ketchum",
+	"main": "index.js",
+	"types": "index.d.ts",
+	"type": "module",
+	"scripts": {},
+	"files": [
+		"/src"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/varvolta/ketchum.git"
+	},
+	"keywords": [
+		"ketchum",
+		"nothing"
+	],
+	"author": "Vahe Arzumanyan",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/varvolta/ketchum/issues"
+	},
+	"homepage": "https://github.com/varvolta/ketchum#readme"
+}
